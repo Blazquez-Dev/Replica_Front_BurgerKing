@@ -38,10 +38,10 @@ Para asegurar el correcto funcionamiento del sistema de inyección de componente
 │       ├── postres.png
 │       └── salsas.png
 └── [componentes externos]  # Cabeceras y modales inyectados dinámicamente
-
+```
 ---
 
-🔧 Ejecución en Local
+## 🔧 Ejecución en Local
 Clona este repositorio:
 
 Bash
