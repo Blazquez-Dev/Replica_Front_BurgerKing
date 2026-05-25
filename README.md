@@ -45,7 +45,7 @@ Para asegurar el correcto funcionamiento del sistema de inyección de componente
 Clona este repositorio:
 
 Bash
-git clone [https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITORIO.git](https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITORIO.git)
+git clone (https://github.com/Blazquez-Dev/Replica_Front_BurgerKing.git)
 Al procesar la carga de componentes dinámicos mediante JavaScript, algunos navegadores bloquean las peticiones locales por políticas de CORS si se abre el archivo directamente. Se recomienda ejecutar el proyecto utilizando un servidor local como la extensión Live Server en Visual Studio Code.
 
 
